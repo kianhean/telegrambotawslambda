@@ -43,7 +43,7 @@ https://xxxxxxx.execute-api.ap-southeast-1.amazonaws.com/dev
 
 ### Telling Telegram your Bot is alive
 
-Send the following curl to Telegram to inform them of your endpoint. Replace the variables below witj your own
+Send the following curl to Telegram to inform them of your endpoint. Replace the variables below with your own
 
 ```bash
 curl --data "url=<YOUR URL ABOVE>" "https://api.telegram.org/bot<TELEGRAMAPIKEY>/setWebhook"
