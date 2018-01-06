@@ -4,7 +4,7 @@
 ### Git Clone this repo
 
 ```bash
-git clone xxxxxx
+git clone https://github.com/kianhean/telegrambotawslambda.git
 ```
 
 ### Initial setup
