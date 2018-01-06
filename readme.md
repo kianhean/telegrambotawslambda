@@ -52,3 +52,12 @@ curl --data "url=<YOUR URL ABOVE>" "https://api.telegram.org/bot<TELEGRAMAPIKEY>
 The reply returned should be True.
 
 Speak to your bot!
+
+
+### Updating your bot
+
+Updates to your bot can be done and then sent to production using
+
+```bash
+zappa update
+```
