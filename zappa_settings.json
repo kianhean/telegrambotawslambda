@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "app_function": "app.__hug_wsgi__",
+        "aws_region": "ap-southeast-1",
+        "s3_bucket": "zappa-<YOURNAME>",
+        "profile_name": "default",
+        "keep_warm": false,
+        "apigateway_description": "<YOURNAME> on AWS API Gateway",
+        "lambda_description": "<YOURNAME> on AWS Lambda",
+        "memory_size": 128,
+        "runtime": "python3.6",
+        "timeout_seconds": 30,
+        "project_name": "<YOURNAME>"
+    }
+}
