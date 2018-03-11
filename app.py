@@ -54,6 +54,6 @@ def on_chat_message(message):
  
 def on_callback_query(message):
     """
-        do sth similar to on chat message
+        do sth similar to on_chat_message
     """
     return
