@@ -71,6 +71,9 @@ Updates to your bot can be done and then sent to production using
 zappa update
 ```
 
+### Tips
+1. ngrok (https://ngrok.com/) is a very good way to test your code before deploying to AWS lambda. Please refer to item 1 of the reference for details.
+
 ### Some useful reference
 1.  https://medium.freecodecamp.org/how-to-build-a-server-less-telegram-bot-227f842f4706
 2.  https://taiosolve.xyz/first-steps-with-aws-lambda-zappa-flask-and-python-3/
