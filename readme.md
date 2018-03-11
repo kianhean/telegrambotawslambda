@@ -74,3 +74,4 @@ zappa update
 ### Some useful reference
 1.  https://medium.freecodecamp.org/how-to-build-a-server-less-telegram-bot-227f842f4706
 2.  https://taiosolve.xyz/first-steps-with-aws-lambda-zappa-flask-and-python-3/
+3. https://www.viget.com/articles/building-a-simple-api-with-amazon-lambda-and-zappa/
